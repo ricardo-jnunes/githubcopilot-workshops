@@ -1,4 +1,4 @@
-GitHub's six principles of responsible AI
+# GitHub's six principles of responsible AI
 
 * Fairness: AI systems should treat all people fairly.
 * Reliability and safety: AI systems should perform reliably and safely.

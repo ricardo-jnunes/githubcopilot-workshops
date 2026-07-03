@@ -1,6 +1,8 @@
 # Commit Message Guidelines
 
-This repository follows Conventional Commits for clear, consistent, and automatable commit history.
+This repository follows Conventional Commits v1.0.0 for clear, consistent, and automatable commit history.
+
+Based on the official spec: https://www.conventionalcommits.org/en/v1.0.0/
 
 ## Purpose
 

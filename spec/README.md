@@ -1,14 +1,31 @@
 # Specification
 
-This directory contains project-level specifications and guidelines.
+This directory contains the repository's project-level specifications, conventions, and guidance.
 
-This repository follows the same Spec-Driven Development principles that GitHub Spec Kit promotes:
+The purpose of this folder is to serve as a shared reference for both humans and AI agents. It helps keep decisions explicit, consistent, and easy to review before implementation begins.
 
-- define the spec first,
-- keep it lightweight and actionable,
-- make it reviewable and evolvable,
-- use it as shared context for team members and AI agents.
+## How to use this spec
 
-GitHub Spec Kit also provides a bootstrapping CLI and template scaffolding for `.specify/` and `.github/prompts/`, but the core idea is the same: capture the "why" before implementation.
+Use the files in this folder as the starting point for understanding:
 
-- `commit-message-guidelines.md` — commit message best practices and conventions for this repository.
+- the intended workflow for this repository;
+- the conventions that should be followed when changing documentation or code;
+- the expected style for commit messages and project updates;
+- the principles that guide contributions and reviews.
+
+## Core principles
+
+This repository follows the same Spec-Driven Development mindset promoted by GitHub Spec Kit:
+
+- define the intent first;
+- keep the guidance lightweight and actionable;
+- make the rules reviewable and evolvable;
+- use the spec as shared context for contributors and AI tools.
+
+## Repository references
+
+- [commit-message-guidelines.md](commit-message-guidelines.md) — commit message best practices and conventions for this repository.
+
+## Practical advice
+
+When making a change, check the relevant spec guidance before implementing it. If the change introduces a new pattern, decision, or workflow, update the spec so the repository remains consistent over time.

@@ -35,6 +35,7 @@ A practical path through this repository is:
 - docs/ — reference notes and study material;
 - learn/ — educational content on Copilot and responsible AI;
 - spec/ — repository conventions, guidelines, and specification documents.
+- exercises/ — practical hands-on exercise files, including unit testing guides;
 - .github/ — repository instructions for AI-assisted contributors.
 
 ## Expected outcome
